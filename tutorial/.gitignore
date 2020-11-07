@@ -1,0 +1,8 @@
+
+# Temporary files
+dataset/
+outputs/
+models/
+binarized/
+processed/
+
