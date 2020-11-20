@@ -1,6 +1,6 @@
 # From Dataset Recycling to Multi-Property Extraction and Beyond
 
-This repository contains model implementations and data from the paper: _From Dataset Recycling to Multi-Property Extraction and Beyond_ by Tomasz Dwojak, Tomasz, Michał Pietruszka, Łukasz Borchmann, Jakub Chłędowski, and Filip Graliński.
+This repository contains model implementations and data from the paper: [_From Dataset Recycling to Multi-Property Extraction and Beyond_](https://www.aclweb.org/anthology/2020.conll-1.52.pdf) by Tomasz Dwojak, Tomasz, Michał Pietruszka, Łukasz Borchmann, Jakub Chłędowski, and Filip Graliński.
 
 [[BibTeX](./ref.bib)]
 
